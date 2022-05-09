@@ -8,3 +8,7 @@ if name=="akwasi":
     print("akwasi is Software Principal Engineer")
     print("akwasi is BigData Engineer")
     print("akwasi is Cloud Engineer")
+if name=="Tony":
+    print("Tony is Software Principal Engineer")
+    print("Tony is BigData Engineer")
+    print("Tony is Cloud Engineer")
